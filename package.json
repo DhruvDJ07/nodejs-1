@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prashantsingh896/NodeJS-Authentication-App.git"
+    "url": "git+https://github.com/DhruvDJ07/NodeJS-Authentication-App.git"
   },
-  "author": "Prashant Singh",
+  "author": "Dhruv Shivhare",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/prashantsingh896/NodeJS-Authentication-App/issues"
+    "url": "https://github.com/DhruvDJ07/NodeJS-Authentication-App/issues"
   },
-  "homepage": "https://github.com/prashantsingh896/NodeJS-Authentication-App#readme",
+  "homepage": "https://github.com/DhruvDJ07/NodeJS-Authentication-App#readme",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "connect-mongo": "^4.6.0",
